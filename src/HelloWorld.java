@@ -5,7 +5,8 @@ public class HelloWorld {
         System.out.println("Hello World2");
         System.out.println("Hello World1");
         System.out.println("Wita Nas nowy wp");
-        System.out.printetst);
+
+
 
     }
     }
