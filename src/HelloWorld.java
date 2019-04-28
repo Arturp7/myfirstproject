@@ -7,8 +7,7 @@ public class HelloWorld {
         System.out.println("Wita Nas nowy wp");
 
 
-
     }
     }
 
-}
+
